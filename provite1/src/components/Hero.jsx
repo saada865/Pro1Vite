@@ -24,7 +24,7 @@ const Hero = () => {
             alt=""
           />
         </div>
-        <div className="flex mt-20">
+        <div className="flex mt-10">
           <div className="mr-2">
             <p className="text-xl font-semibold">{subcount}</p>
             <p>Subscriber Count</p>
